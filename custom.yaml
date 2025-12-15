@@ -4,6 +4,11 @@
 plantuml:
   ubuntu:
     '*': [plantuml]
+python3-viser-pip:
+  ubuntu:
+    pip:
+      packages: [viser]
+    
 
 # ------------------------------------------------------------------
 # Package built from source in the workspace on which other packages depend.
