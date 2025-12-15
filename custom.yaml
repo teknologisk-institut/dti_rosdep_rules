@@ -16,5 +16,5 @@ python3-viser-pip:
 # E.g. livox_ros_driver2 depends on livox_sdk2, but this package is built 
 # from source and not resolved by rosdep.
 # ------------------------------------------------------------------
-livox_sdk2:
-  ubuntu: []
+#livox_sdk2:
+#  ubuntu: []
