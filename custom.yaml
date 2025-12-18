@@ -8,13 +8,3 @@ python3-viser-pip:
   ubuntu:
     pip:
       packages: [viser]
-    
-
-# ------------------------------------------------------------------
-# Package built from source in the workspace on which other packages depend.
-# If not listed here rosdep will fail when encountering those keys.
-# E.g. livox_ros_driver2 depends on livox_sdk2, but this package is built 
-# from source and not resolved by rosdep.
-# ------------------------------------------------------------------
-#livox_sdk2:
-#  ubuntu: []
