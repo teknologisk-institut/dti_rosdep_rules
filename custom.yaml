@@ -14,6 +14,6 @@ python3-small_gicp-pip:
       packages: [small_gicp]
 python3-kiss-matcher-pip:
   ubuntu:
-      pip:
-        packages:
-          - "git+https://github.com/MIT-SPARK/KISS-Matcher.git@42154f8#subdirectory=python"
+    pip:
+      packages:
+        - "git+https://github.com/MIT-SPARK/KISS-Matcher.git@42154f8#subdirectory=python"
