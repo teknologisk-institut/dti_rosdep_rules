@@ -8,3 +8,7 @@ python3-viser-pip:
   ubuntu:
     pip:
       packages: [viser]
+python3-small_gicp-pip:
+  ubuntu:
+    pip:
+      packages: [small_gicp]
