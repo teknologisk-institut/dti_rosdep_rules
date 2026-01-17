@@ -12,7 +12,7 @@ python3-small_gicp-pip:
   ubuntu:
     pip:
       packages: [small_gicp]
-python3-kiss-matcher:
+python3-kiss-matcher-pip:
   ubuntu:
       pip:
         packages:
